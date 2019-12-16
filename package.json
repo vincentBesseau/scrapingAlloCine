@@ -1,0 +1,26 @@
+{
+  "name": "scrapingallocine",
+  "version": "1.0.0",
+  "description": "Scraping allocine data to get the movie list that the desired cinema presents",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:vincentBesseau/scrapingAlloCine.git"
+  },
+  "keywords": [
+    "allocine",
+    "scraping",
+    "movies",
+    "movie"
+  ],
+  "author": "Vincent Besseau",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "minimist": "^1.2.0"
+  }
+}
