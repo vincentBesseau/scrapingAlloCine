@@ -1,5 +1,5 @@
 {
-  "name": "scrapingallocine",
+  "name": "scraping-allocine",
   "version": "1.0.0",
   "description": "Scraping allocine data to get the movie list that the desired cinema presents",
   "main": "app.js",
