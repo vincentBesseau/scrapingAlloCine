@@ -44,7 +44,7 @@ const checkArg = async (arguments) => {
                     filtre.specificMovie = arguments[key];
                     break;
                 case 'w':
-                case 'without-time':
+                case 'withoutTime':
                     filtre.withoutTime = true;
                     break;
                 case 'l':
