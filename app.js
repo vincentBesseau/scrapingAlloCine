@@ -20,7 +20,7 @@ const checkArg = async (arguments) => {
 
     // Default value
     // ex : UGC Nantes P0666
-    let cinema = '';
+    let cinema = null;
     let day = new Date();
     let filtre = {
         specificMovie: null,
